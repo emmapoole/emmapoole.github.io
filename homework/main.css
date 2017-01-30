@@ -1,2 +1,17 @@
 * {
+    box-sizing: border-box;
 }
+
+article,
+aside,
+footer,
+header,
+nav,
+section,
+main,
+figcaption,
+figure {
+    display:block;
+}
+
+body
